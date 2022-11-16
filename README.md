@@ -8,3 +8,8 @@ This is a simple script that takes the following inputs:
 - Destination folder for where any matching files from the text file and source folder will be files moved
 
 *NOTE: I have only tested on Windows so your mileage may vary on other OS's*
+
+## Requirements
+You will need to install PySimpleGUI to run
+
+`pip install PySimpleGUI`
