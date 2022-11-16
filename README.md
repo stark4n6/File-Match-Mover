@@ -13,3 +13,6 @@ This is a simple script that takes the following inputs:
 You will need to install PySimpleGUI to run
 
 `pip install PySimpleGUI`
+
+## Usage
+`python file_match_mover.py`
